@@ -1,7 +1,11 @@
 <template>
   <footer class="bg-dark text-light p-4">
     <div>Bartosz Stachowiak &copy; 2022</div>
-    <a href="https://github.com/" class="link-light" target="_blank">
+    <a
+      href="https://github.com/Tremirre/vue-collection-app/"
+      class="link-light"
+      target="_blank"
+    >
       GitHub Link
     </a>
   </footer>
